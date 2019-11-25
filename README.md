@@ -1,4 +1,4 @@
-# OMPvsOCLvsCUDAvsOAAC
+# OMPvsOCLvsCUDAvsOAСC
 en
 
 In this project Im trying compare parallel programming technologies C++ threading, OpenMP, OpenCL, CUDA and OpenAAC 
